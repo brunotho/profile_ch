@@ -29,13 +29,6 @@ a {
   text-shadow: 333;
 }
 
-/* button {
-  color: red !important;
-  margin: 5%;
-  /* style */
-} */
-
-
 a:hover {
   color: whitesmoke;
   rotate: 50%;
